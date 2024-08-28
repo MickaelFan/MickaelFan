@@ -1,7 +1,6 @@
 
-- 👋 Hi, I’m Mickaël Fanantenana
 
-<h1 style="color:red;" align="center">Akoryyyyyy!</h1>
+<h1 color="red" align="center">Akoryyyyyy!</h1>
 
 ###
 
